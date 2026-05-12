@@ -4,7 +4,7 @@ title: NeoIBCC
 
 # NeoIBCC
 
-Neonatal hemodynamics and critical care, opinionated.
+Neonatal critical care, opinionated.
 
 ## Sections
 
