@@ -6,4 +6,12 @@ title: NeoIBCC
 
 Neonatal hemodynamics and critical care, opinionated.
 
-Coming June 2026.
+## Sections
+
+- [[cardiac|Cardiology]] — neonatal cardiovascular physiology, hemodynamic assessment, and the cardiovascular phenotypes encountered in the NICU
+
+More sections will be added over time.
+
+---
+
+*Launch target: June 2026.*
